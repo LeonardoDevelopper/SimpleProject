@@ -39,7 +39,7 @@ programa
           tot_pag = preco_desc1 + preco_desc2 + preco_desc3 + preco_desc4
           escreva ("Total a pagar: ",tot_pag,"0KZ\n\n\n")
 
-		teste = "compreendi!"
+		
 
 
 
@@ -52,7 +52,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1942; 
+ * @POSICAO-CURSOR = 1922; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
